@@ -1,0 +1,3 @@
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Fast Food Kafe sayti yuklandi!");
+});
